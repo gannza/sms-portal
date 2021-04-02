@@ -1,3 +1,12 @@
+
+# In order to follow this tutorial, you will need:
+
+    Basic knowledge of Laravel
+    Laravel Installed on your local machine
+    Clone sms-portal into your pc
+    MySQL setup on your local machine
+    Twilio Account 
+
 # CLONE SMS-PORTAL
     git clone https://github.com/gannza/sms-portal.git
     
